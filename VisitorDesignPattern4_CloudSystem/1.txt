@@ -1,0 +1,9 @@
+cat Client.java             
+cat Compute.java            
+cat Resource.java           
+cat VM.java                 
+cat Visitor.java
+cat ComplianceVisitor.java  
+cat CostVisitor.java        
+cat Storage.java            
+cat Vault.java
